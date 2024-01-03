@@ -1,6 +1,6 @@
 ```
-Name : Rajalakshmi R
-Reg no : 23013958
+Name : SUDARSHANA S
+Reg no : 212223050054
 ```
 
 # Exp-6 Synchornous counters up counter and down counter 
